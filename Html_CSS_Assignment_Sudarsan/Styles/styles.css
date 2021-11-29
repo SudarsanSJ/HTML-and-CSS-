@@ -1,0 +1,160 @@
+body
+{
+    font-family: sans-serif;
+}
+#common
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/Vector-1.png);
+    background-repeat: no-repeat;
+}
+.Homeleft
+{
+    margin:61.667px;
+    width: 35%;
+    float: left;
+    text-align: left;
+}
+.Homeleft img{
+    width:60px;
+    height:55.1px;
+}
+.Homeleft h1{
+   
+    color: #283a5e;
+    font-size: 25px;
+    line-height: 30px;
+}
+.Homeleft p{
+    font-size: 16px;
+    line-height: 24px;
+}
+.Homeleft b{
+    font-size: 16px;
+    color: #3C4D6F;
+    letter-spacing: 0;
+    line-height: 30px;
+}
+.Homeleft span{
+    color: #ff4800;
+    font-size: 20px;
+}
+#righting
+{
+    width: 16px;
+    height: 16px;
+}
+.Homeright
+{
+    margin:61.667px;
+    float:left;
+    border: 1px solid black;
+    padding: 50px;
+    padding-top: 0px;
+    
+}
+.Homeright input
+{
+    padding: 10px;
+}
+.Homeright textarea
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: monospace;
+}
+.Homeright h1
+{
+    text-align: center;
+}
+.Homeright p
+{
+    text-align: center;
+}
+input:hover
+{
+    border: 1px solid lightsalmon;
+}
+textarea:focus
+{
+    border: 1px solid lightsalmon;
+}
+#submitbutton
+{
+    padding: 10px 165px;
+    background-color: #ff4800;
+    color: white;
+    font-size: 20px;
+    border: 1px solid #ff4800;
+    border-radius: 3px;
+}
+.Homeright span{
+    color: #ff4800;
+}
+.office
+{
+    margin:auto;
+}
+.office h1{
+    color:#283a5e;
+    text-align: center;
+    font-size: 36px;
+    font-family: Caros-Bold,sans-serif;
+}
+.office li{
+    width:25%;
+    float: left;
+    list-style: none;
+    border: 1px solid #282828;
+    font-family: sans-serif;
+    line-height: 30px;
+    margin: 30px;
+    color:#283A5F;
+}
+.office p{
+    position: relative;
+    left:10px;
+}
+.office img{
+    width:100%;
+    height: 25%;
+    
+}
+.follow
+{
+    text-align: center;
+    color:#283A5F;
+}
+.follow img{
+    color: #828893;
+}
+.final li
+{
+    width: 25%;
+    float: left;
+    list-style: none;
+    line-height: 30px;
+}
+.final b{
+    color:#283A5F;
+    font-style: bold;
+    font-size: 19px;
+}
+.final img{
+    width:25px;
+    height:25px;
+    padding-top: 20px;
+}
+#lastimg
+{
+    width:150px;
+    height:150px;
+    padding-top: 0px;
+}
+.bottom img
+{
+    width:150px;
+    height:150px;
+    padding-top: 0px;
+}
